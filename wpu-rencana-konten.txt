@@ -3,9 +3,11 @@ Rencana Konten wpu
 - Javascript
   *ES6
   *Framework Javascript
-  ^Angular
-  ^react
+  ^Vue
+  ^React
+- Struktur Data Dasar
 - Php FrameWork
 ^Laravel
 - Interview
 - Vlog
+- Pyhton
