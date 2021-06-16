@@ -5,6 +5,7 @@ Rencana Konten wpu
   *Framework Javascript
   ^Vue
   ^React
+  ^Angular
 - Struktur Data Dasar
 - Php FrameWork
 ^Laravel
