@@ -1,6 +1,8 @@
 Rencana Konten wpu
 
 - Javascript
+  *ES6
+  *Framework Javascript
 - Php FrameWork
 - Interview
--Vlog
+- Vlog
