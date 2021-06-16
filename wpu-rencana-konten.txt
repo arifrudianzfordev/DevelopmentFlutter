@@ -3,6 +3,7 @@ Rencana Konten wpu
 - Javascript
   *ES6
   *Framework Javascript
+- Struktur Data Dasar
 - Php FrameWork
 - Interview
 - Vlog
